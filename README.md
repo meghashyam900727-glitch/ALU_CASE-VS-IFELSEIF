@@ -299,11 +299,11 @@ The Liberty files are present in the library path,
 
 #### Fig 9: Area report of case and ifelseif construct
 ![IMG-20251103-WA0097](https://github.com/user-attachments/assets/95fe90ac-f8af-4d41-a4d8-053c855baaaa)
-
+<img width="1919" height="1079" alt="Screenshot 2025-11-17 090312" src="https://github.com/user-attachments/assets/f65e792f-b5c9-47e7-9514-b3b9b6b424b1" />
 #### Fig 10: Power Report of case and ifelseif construct
 
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/12be827b-636e-4fd5-99e0-9029523d60e4" />
-<img width="1919" height="1079" alt="Screenshot 2025-11-17 090312" src="https://github.com/user-attachments/assets/f65e792f-b5c9-47e7-9514-b3b9b6b424b1" />
+
 
 
 
